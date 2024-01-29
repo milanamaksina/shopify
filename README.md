@@ -1,4 +1,4 @@
-# 3205-app
+# shopify
 
 ## Start instructions
 - install packages
